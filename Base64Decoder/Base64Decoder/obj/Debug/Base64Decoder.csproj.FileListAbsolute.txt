@@ -1,0 +1,22 @@
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\bin\Debug\Base64Decoder.exe.config
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\bin\Debug\Base64Decoder.exe.manifest
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\bin\Debug\Base64Decoder.application
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\bin\Debug\Base64Decoder.exe
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\bin\Debug\Base64Decoder.pdb
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\bin\Debug\Base64DecoderCL.dll
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\bin\Debug\Base64DecoderCL.pdb
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder.csprojResolveAssemblyReference.cache
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\obj\Debug\MainWindow.baml
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\obj\Debug\MainWindow.g.cs
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\obj\Debug\App.g.cs
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder_MarkupCompile.cache
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder.g.resources
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder.Properties.Resources.resources
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder.csproj.GenerateResource.Cache
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder.exe.manifest
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder.application
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder.exe
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder.pdb
+C:\Users\ANJ\Documents\GitHub\BAse64Decoder\Base64Decoder\Base64Decoder\bin\Debug\Base64Decoder.exe.config
+C:\Users\ANJ\Documents\GitHub\BAse64Decoder\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder.exe
+C:\Users\ANJ\Documents\GitHub\BAse64Decoder\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder.pdb

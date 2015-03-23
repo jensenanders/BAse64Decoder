@@ -1,0 +1,22 @@
+﻿<Window x:Class="Base64Decoder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="XMLBase64Decoder 1.5" Height="350" Width="525" AllowDrop="True" Drop="Window_Drop" >
+
+    <Grid>
+
+        <Button Content="Output mappe" Name="BtnOutputfolder" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="98" Height="23" Click="BtnOutputfolder_Click"/>
+        <Label Content="Output sti" Name="TbFilepatch" HorizontalAlignment="Left" Margin="113,9,0,0" VerticalAlignment="Top" Width="367"/>
+        <ListView HorizontalAlignment="Left" Height="147" Name="LWFilepatchtoFinich" Margin="10,55,0,0" VerticalAlignment="Top" Width="203" RenderTransformOrigin="-0.32,0.12">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Resultat: klar!" Name="LbResultat" FontSize="30" HorizontalAlignment="Left" Margin="10,220,0,0" VerticalAlignment="Top"/>
+        <Label Content="            Træk og slip&#x0a; edi, fnux og xml-fil her til !!" FontSize="18" HorizontalAlignment="Left" Margin="278,144,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.557,0.379"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="275" Margin="227,35,0,0" VerticalAlignment="Top" Width="289"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,8 @@
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\testXMLbladring\bin\Debug\testXMLbladring.exe.config
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\testXMLbladring\bin\Debug\testXMLbladring.exe
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\testXMLbladring\bin\Debug\testXMLbladring.pdb
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\testXMLbladring\bin\Debug\Base64DecoderCL.dll
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\testXMLbladring\bin\Debug\Base64DecoderCL.pdb
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\testXMLbladring\obj\Debug\testXMLbladring.csprojResolveAssemblyReference.cache
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\testXMLbladring\obj\Debug\testXMLbladring.exe
+C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\testXMLbladring\obj\Debug\testXMLbladring.pdb
