@@ -43,9 +43,19 @@ namespace Base64DecoderCL
             XmlNodeList ObjectCodeListfoedselsan = doc.GetElementsByTagName("Identifier");
             XmlNodeList ObjectExtensionCodeListfoedselsan = doc.GetElementsByTagName("Format");
 
+            //Eksempel med ny XML tag indeholdende BASE64 element
+            XmlNodeList Object_Base64EncodedNyyEksempel = doc.GetElementsByTagName("Nybase64eksempel");
+            XmlNodeList ObjectCodeListNyyEksempel = doc.GetElementsByTagName("Identifier");
+            XmlNodeList ObjectExtensionCodeListNyyEksempel = doc.GetElementsByTagName("Format");
+
 
             Base64Element Base64ele = new Base64Element();
             //Retur fil with 3 lists
+
+            //Eksempel med ny XML tag indeholdende BASE64 element
+            if (Object_Base64EncodedNyyEksempel.Count > 0)
+                Base64ele = new Base64Element(Object_Base64EncodedNyyEksempel, ObjectCodeListNyyEksempel, ObjectExtensionCodeListNyyEksempel);
+            
             if(Object_Base64EncodedList.Count >0)
                 Base64ele = new Base64Element(Object_Base64EncodedList, ObjectCodeList, ObjectExtensionCodeList);
 

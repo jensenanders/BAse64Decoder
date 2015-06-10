@@ -2,3 +2,8 @@ C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64DecoderCL
 C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64DecoderCL\bin\Debug\Base64DecoderCL.pdb
 C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64DecoderCL\obj\Debug\Base64DecoderCL.dll
 C:\Users\ANJ\documents\visual studio 2013\Projects\Base64Decoder\Base64DecoderCL\obj\Debug\Base64DecoderCL.pdb
+C:\Users\ANJ\Documents\GitHub\BAse64Decoder\Base64Decoder\Base64DecoderCL\bin\Debug\Base64DecoderCL.dll
+C:\Users\ANJ\Documents\GitHub\BAse64Decoder\Base64Decoder\Base64DecoderCL\bin\Debug\Base64DecoderCL.pdb
+C:\Users\ANJ\Documents\GitHub\BAse64Decoder\Base64Decoder\Base64DecoderCL\obj\Debug\Base64DecoderCL.csprojResolveAssemblyReference.cache
+C:\Users\ANJ\Documents\GitHub\BAse64Decoder\Base64Decoder\Base64DecoderCL\obj\Debug\Base64DecoderCL.dll
+C:\Users\ANJ\Documents\GitHub\BAse64Decoder\Base64Decoder\Base64DecoderCL\obj\Debug\Base64DecoderCL.pdb
